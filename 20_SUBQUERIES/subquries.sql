@@ -1,5 +1,5 @@
 
-1️⃣ SUBQUERY IN WHERE
+SUBQUERY IN WHERE
 
 Q1. Find employees earning more than the overall average salary.
 
@@ -38,6 +38,7 @@ Table Answer:
 +-------+--------+
 | Ravi  | 70000  |
 +-------+--------+
+
 Q3. Find employees belonging to the IT department.
 
 SELECT ENAME, DEPTID
@@ -74,7 +75,7 @@ Table Answer:
 | Priya | 50000  |
 | Meena | 55000  |
 +-------+--------+
-2️⃣ SUBQUERY IN SELECT
+ SUBQUERY IN SELECT
 
 Q5. Display each employee with the overall average salary.
 
@@ -138,7 +139,7 @@ Table Answer:
 | Meena  | 55000  | 5833.33    |
 +--------+--------+------------+
 
-3️⃣ SUBQUERY IN FROM
+SUBQUERY IN FROM
 
 A subquery inside FROM creates a derived table, which the outer query can treat like a temporary result set.
 
